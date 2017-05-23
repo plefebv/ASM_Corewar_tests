@@ -1,4 +1,10 @@
 rm *.txt *.cor
+sh mine.sh perso1
+sh mine.sh perso2
+sh mine.sh perso3
+sh mine.sh perso4
+sh mine.sh perso5
+sh mine.sh perso6
 sh mine.sh 42
 sh mine.sh Backward
 sh mine.sh Car
