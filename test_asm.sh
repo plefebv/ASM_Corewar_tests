@@ -1,5 +1,4 @@
 rm *.txt *.cor
-sh 
 sh mine.sh 42
 sh mine.sh Backward
 sh mine.sh Car
